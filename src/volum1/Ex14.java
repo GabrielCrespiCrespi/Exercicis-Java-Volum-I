@@ -13,6 +13,5 @@ public class Ex14 {
                     System.out.println(i);
                     i++;
                 }}
-
     }
 }
